@@ -1,0 +1,10 @@
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\obj\Debug\EasyCrud.Repository.csprojResolveAssemblyReference.cache
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\bin\Debug\EasyCrud.Repository.dll.config
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\bin\Debug\EasyCrud.Repository.dll
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\bin\Debug\EasyCrud.Repository.pdb
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.dll
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.xml
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\obj\Debug\EasyCrud.Repository.dll
+D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\obj\Debug\EasyCrud.Repository.pdb

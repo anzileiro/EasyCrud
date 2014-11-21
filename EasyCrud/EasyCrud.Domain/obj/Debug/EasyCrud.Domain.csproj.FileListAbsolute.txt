@@ -1,0 +1,6 @@
+D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\bin\Debug\EasyCrud.Domain.dll
+D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\bin\Debug\EasyCrud.Domain.pdb
+D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\obj\Debug\EasyCrud.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\obj\Debug\EasyCrud.Domain.dll
+D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\obj\Debug\EasyCrud.Domain.pdb
+D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\bin\Debug\EasyCrud.Domain.dll.config
