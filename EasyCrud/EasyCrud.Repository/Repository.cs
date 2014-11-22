@@ -19,6 +19,11 @@ namespace EasyCrud.Repository
             _dbSet = _context.Set<T>();
         }
 
+        ~Repository()
+        {
+            Dispose(false);
+        }
+
         public IEnumerable<T> List(Expression<Func<T, T>> selector)
         {
             return _dbSet.Select(selector).ToList();
@@ -99,8 +104,16 @@ namespace EasyCrud.Repository
 
         public void Dispose()
         {
-            _context.Dispose();
+            Dispose(true);
             GC.SuppressFinalize(this);
+        }
+
+        private void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                _context.Dispose();
+            }
         }
     }
 }
