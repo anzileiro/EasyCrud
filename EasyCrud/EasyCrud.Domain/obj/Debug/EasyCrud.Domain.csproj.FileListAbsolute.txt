@@ -4,3 +4,9 @@ D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\obj\Debug\EasyCrud.Domain.csprojRe
 D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\obj\Debug\EasyCrud.Domain.dll
 D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\obj\Debug\EasyCrud.Domain.pdb
 D:\Projects\easycrud\EasyCrud\EasyCrud.Domain\bin\Debug\EasyCrud.Domain.dll.config
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Domain\bin\Debug\EasyCrud.Domain.dll.config
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Domain\bin\Debug\EasyCrud.Domain.dll
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Domain\bin\Debug\EasyCrud.Domain.pdb
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Domain\obj\Debug\EasyCrud.Domain.csprojResolveAssemblyReference.cache
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Domain\obj\Debug\EasyCrud.Domain.dll
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Domain\obj\Debug\EasyCrud.Domain.pdb

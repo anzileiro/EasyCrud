@@ -8,3 +8,13 @@ D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.xml
 D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
 D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\obj\Debug\EasyCrud.Repository.dll
 D:\Projects\easycrud\EasyCrud\EasyCrud.Repository\obj\Debug\EasyCrud.Repository.pdb
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\obj\Debug\EasyCrud.Repository.csprojResolveAssemblyReference.cache
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\obj\Debug\EasyCrud.Repository.dll
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\bin\Debug\EasyCrud.Repository.dll.config
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\bin\Debug\EasyCrud.Repository.dll
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\bin\Debug\EasyCrud.Repository.pdb
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.dll
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.xml
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\projetos\github\EasyCrud\EasyCrud\EasyCrud.Repository\obj\Debug\EasyCrud.Repository.pdb

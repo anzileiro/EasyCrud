@@ -8,11 +8,9 @@ namespace EasyCrud.Console
 
     class Program
     {
-        private static ShopContext _context = new ShopContext();
-
         static void Main(string[] args)
         {
-            var clientRepository = new Repository<Client>(_context);
+            var clientRepository = new Repository<Client>(new ShopContext());
             clientRepository.Insert(new Client
             {
                 Address = "Foo street",
@@ -21,7 +19,7 @@ namespace EasyCrud.Console
                 Name = "Foo Bar"
             });
 
-            Console.Read();
+            clientRepository.Dispose();
         }
     }
 }
